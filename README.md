@@ -1,1 +1,1 @@
-# IMAGE-FILTERING-PROGRAM
+# Image Processing Program
